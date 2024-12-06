@@ -1,5 +1,5 @@
-# WE562_Lab
-<h2>React JS Class</h2>
+# WE562_Lab (React JS Class)
+ 
 <div>
 <h2>Clock</h2>
 https://codesandbox.io/p/sandbox/we562-lab-clock-5lsqps
