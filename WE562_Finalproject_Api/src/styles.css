@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  color: #10eea4;
+  text-align: center;
+}
+
+body {
+  background-image: url("https://wallpapers.com/images/hd/disney-dolan-donald-duck-meme-r1196xrtwz28ebq3.webp");
+}
+
+table,
+th,
+tr {
+  border: "1px solid";
+}
