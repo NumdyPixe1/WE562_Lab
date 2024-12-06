@@ -1,4 +1,5 @@
 # WE562_Lab
+<h3>React JS Class</h3>
 <div>
 <h2>Clock</h2>
 https://codesandbox.io/p/sandbox/we562-lab-clock-5lsqps
